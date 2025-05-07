@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+	--colorUno: #253494;
+	--colorDos: #2c7fb8;
+	--colorTres: #FFFFFF;
+	--colorCuatro: #41b6c4;
+	--colorCinco: #ffffcc;
+}
+
+body {
+	background: var(--colorDos);
+	text-align: center;
+	margin: 0;
+	padding: 50px;
+	color: white;
+	font-family: "Atkinson Hyperlegible", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+}
+
+div.container{
+	width:min(800px,90%);
+	margin: 0 auto;
+	padding: 1rem;
+	background: var(--colorUno);
+	text-align: left;
+}
+
+h1{
+	color: var(--colorTres);
+	font-weight: lighter;
+	font-size: calc(2rem + 3vw);
+	margin: 0;
+}
+
+p{
+	margin-left:0.2rem;
+}
+
+a{
+	color: var(--colorTres);
+	transition: color ease .3s;
+}
+
+a:hover{
+	color: var(--colorCuatro);
+	transition: color ease .6s;
+}
+
+a:visited{
+	color: var(--colorCuatro);
+	transition: color ease .6s;
+}
+
+table {
+	width: 100%;
+}
+
+table, th, td{ 
+	border-bottom: 1px solid var(--colorCuatro);
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 0.2rem;
+}
+
+th:nth-child(2), td:nth-child(2){
+	text-align: left;
+}
+
+.nota-con-barra {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+
+.emoji {
+	font-size: 20px;
+}
+
+#coso{
+	height: 50vh;
+}

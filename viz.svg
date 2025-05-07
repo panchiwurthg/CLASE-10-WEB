@@ -1,0 +1,306 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 786 727.0000000000001" width="786" height="728">
+	<title>viz</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #253494 } 
+		.s1 { fill: #e85e49 } 
+		.s2 { fill: #fbf8b0 } 
+		.s3 { fill: #5e4fa2 } 
+		.s4 { fill: #9e0142 } 
+		.s5 { fill: #fdbe70 } 
+		.s6 { fill: #56adae } 
+		.s7 { fill: #bee5a0 } 
+		.s8 { fill: none;stroke: #ffffff } 
+		.t9 { font-size: 10px;fill: #ffffff;font-family: "sans" } 
+	</style>
+	<g id="Layer 1">
+		<path id="background" class="s0" d="m805 0v728h-805v-728z"/>
+		<g id="viz">
+			<g>
+				<g>
+					<g id="primera">
+						<path class="s1" d="m107.5 305.6v63.5h-42.8v-63.5z"/>
+						<path class="s1" d="m165 289.8l0.1 79.3h-42.9v-79.3z"/>
+						<path class="s1" d="m222.6 321.5v47.6h-42.9v-47.6z"/>
+						<path class="s1" d="m280.1 305.6v63.5h-42.8v-63.5z"/>
+						<path class="s1" d="m337.6 408.7v23.8h-42.8v-23.8z"/>
+						<path class="s1" d="m395.2 345.3v23.8h-42.9v-23.8z"/>
+						<path class="s1" d="m452.7 329.4v39.7h-42.9v-39.7z"/>
+						<path class="s1" d="m467.4 369.1h42.8-42.8z"/>
+						<path class="s1" d="m567.7 345.2v23.8h-42.8v-23.8z"/>
+						<path class="s1" d="m625.3 345.2v23.8h-42.9v-23.8z"/>
+						<path class="s1" d="m682.8 321.4v47.6h-42.9v-47.6z"/>
+						<path class="s1" d="m740.3 305.6v63.4h-42.8v-63.4z"/>
+					</g>
+					<g id="segunda">
+						<path class="s2" d="m107.5 178.7v63.5h-42.8v-63.5z"/>
+						<path class="s2" d="m165 162.8v63.5h-42.8v-63.5z"/>
+						<path class="s2" d="m222.6 194.6v63.4h-42.9v-63.4z"/>
+						<path class="s2" d="m280.1 162.8v63.5h-42.9v-63.5z"/>
+						<path class="s2" d="m337.6 321.5v63.4h-42.8v-63.4z"/>
+						<path class="s2" d="m395.1 218.3v63.5h-42.8v-63.5z"/>
+						<path class="s2" d="m452.7 170.7v79.4h-42.9v-79.4z"/>
+						<path class="s2" d="m510.2 242.1v63.5h-42.8v-63.5z"/>
+						<path class="s2" d="m567.7 218.3v63.5h-42.8v-63.5z"/>
+						<path class="s2" d="m625.2 218.3l0.1 63.5h-42.9v-63.5z"/>
+						<path class="s2" d="m682.8 194.5v63.5h-42.9v-63.5z"/>
+						<path class="s2" d="m740.3 178.6v63.5h-42.8v-63.5z"/>
+					</g>
+					<g id="tercera">
+						<path class="s3" d="m107.5 242.2v63.4h-42.8v-63.4z"/>
+						<path class="s3" d="m165 226.3v63.5h-42.8v-63.5z"/>
+						<path class="s3" d="m222.6 258v63.5h-42.9v-63.5z"/>
+						<path class="s3" d="m280.1 226.3v79.3h-42.8l-0.1-79.3z"/>
+						<path class="s3" d="m337.6 384.9v23.8h-42.8v-23.8z"/>
+						<path class="s3" d="m395.1 281.8l0.1 63.5h-42.9v-63.5z"/>
+						<path class="s3" d="m452.7 250.1v79.3h-42.9v-79.3z"/>
+						<path class="s3" d="m510.2 305.6v63.5h-42.8v-63.5z"/>
+						<path class="s3" d="m567.7 281.8v63.4h-42.8v-63.4z"/>
+						<path class="s3" d="m625.3 281.8v63.4h-42.9v-63.4z"/>
+						<path class="s3" d="m682.8 258v63.4h-42.9v-63.4z"/>
+						<path class="s3" d="m740.3 242.1v63.5h-42.8v-63.5z"/>
+					</g>
+					<g id="cuarta">
+						<path class="s4" d="m107.5 115.2v63.5h-42.8v-63.5z"/>
+						<path class="s4" d="m165 83.5v79.3h-42.8v-79.3z"/>
+						<path class="s4" d="m179.7 194.6h42.9-42.9z"/>
+						<path class="s4" d="m280.1 83.5v79.3h-42.9v-79.3z"/>
+						<path class="s4" d="m337.6 258v63.5h-42.8v-63.5z"/>
+						<path class="s4" d="m395.1 139v79.3h-42.8v-79.3z"/>
+						<path class="s4" d="m452.6 91.4l0.1 79.3h-42.9v-79.3z"/>
+						<path class="s4" d="m510.2 83.5v158.6h-42.8l-0.1-158.6z"/>
+						<path class="s4" d="m567.7 154.8v63.5h-42.8v-63.5z"/>
+						<path class="s4" d="m582.4 218.3h42.8-42.8z"/>
+						<path class="s4" d="m682.8 131v63.5h-42.9v-63.5z"/>
+						<path class="s4" d="m740.3 99.3v79.3h-42.8l-0.1-79.3z"/>
+					</g>
+					<g id="quinta">
+						<path class="s5" d="m107.5 432.6v63.4h-42.8v-63.4z"/>
+						<path class="s5" d="m165.1 432.6v63.4h-42.9v-63.4z"/>
+						<path class="s5" d="m222.6 432.6v63.4h-42.8l-0.1-63.4z"/>
+						<path class="s5" d="m280.1 432.5v63.5h-42.8v-63.4z"/>
+						<path class="s5" d="m337.6 432.5v63.5h-42.8v-63.5z"/>
+						<path class="s5" d="m395.2 432.5v63.5h-42.9v-63.5z"/>
+						<path class="s5" d="m452.7 432.5v63.5h-42.8v-63.5z"/>
+						<path class="s5" d="m510.2 432.5v63.5h-42.8v-63.5z"/>
+						<path class="s5" d="m567.7 432.5l0.1 63.5h-42.9v-63.5z"/>
+						<path class="s5" d="m625.3 432.5v63.5h-42.9v-63.5z"/>
+						<path class="s5" d="m682.8 432.5v63.5h-42.8v-63.5z"/>
+						<path class="s5" d="m740.3 432.5v63.5h-42.8v-63.5z"/>
+					</g>
+					<g id="sexta">
+						<path class="s6" d="m107.5 369.1v63.5h-42.8v-63.5z"/>
+						<path class="s6" d="m165.1 369.1v63.5h-42.9v-63.5z"/>
+						<path class="s6" d="m222.6 369.1v63.5h-42.9v-63.5z"/>
+						<path class="s6" d="m280.1 369.1v63.4l-42.8 0.1v-63.5z"/>
+						<path class="s6" d="m294.8 432.5h42.8-42.8z"/>
+						<path class="s6" d="m395.2 369.1v63.4h-42.9v-63.4z"/>
+						<path class="s6" d="m452.7 369.1v63.4h-42.8l-0.1-63.4z"/>
+						<path class="s6" d="m510.2 369.1v63.4h-42.8v-63.4z"/>
+						<path class="s6" d="m567.7 369v63.5h-42.8v-63.5z"/>
+						<path class="s6" d="m625.3 369v63.5h-42.9v-63.5z"/>
+						<path class="s6" d="m682.8 369v63.5h-42.8l-0.1-63.5z"/>
+						<path class="s6" d="m740.3 369v63.5h-42.8v-63.5z"/>
+					</g>
+					<g id="septima">
+						<path class="s7" d="m107.5 75.6v39.6h-42.8v-39.6z"/>
+						<path class="s7" d="m165 43.8v39.7h-42.8v-39.7z"/>
+						<path class="s7" d="m222.6 154.9v39.7h-42.9v-39.7z"/>
+						<path class="s7" d="m280.1 43.8v39.7h-42.9v-39.7z"/>
+						<path class="s7" d="m294.8 258h42.8-42.8z"/>
+						<path class="s7" d="m395.1 99.3v39.7h-42.8v-39.7z"/>
+						<path class="s7" d="m452.6 51.7v39.7h-42.8v-39.7z"/>
+						<path class="s7" d="m510.2 20v63.5h-42.9v-63.5z"/>
+						<path class="s7" d="m567.7 115.2v39.6h-42.8v-39.6z"/>
+						<path class="s7" d="m582.4 218.3h42.8-42.8z"/>
+						<path class="s7" d="m682.8 107.2v23.8h-42.9v-23.8z"/>
+						<path class="s7" d="m740.3 59.6v39.7h-42.9v-39.7z"/>
+					</g>
+					<g id="xAxis">
+						<path class="s8" d="m50 496h705"/>
+						<g>
+							<path class="s8" d="m86.1 496v6"/>
+							<text id="BROWNE PRIETO, SOFÍA" style="transform: matrix(0,-1,1,0,90.026,571.48)" >
+								<tspan x="-60.4" y="0" class="t9">BROWNE PRIETO, SOFÍA
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m143.6 496l0.1 6"/>
+							<text id="CAMPAZZO FUENTEALBA, MAGDALENA" style="transform: matrix(0,-1,1,0,148.03,606.438)" >
+								<tspan x="-97.4" y="0" class="t9">CAMPAZZO FUENTEALBA, MAGDALENA
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m201.2 496v6"/>
+							<text id="CORDERO BRUMMER, MARÍA JOSÉ" style="transform: matrix(0,-1,1,0,206.029,592.371)" >
+								<tspan x="-85.3" y="0" class="t9">CORDERO BRUMMER, MARÍA JOSÉ
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m258.7 496v6"/>
+							<text id="CORTHORN PEDRASA, MAGDALENA" style="transform: matrix(0,-1,1,0,263.029,595.496)" >
+								<tspan x="-88.5" y="0" class="t9">CORTHORN PEDRASA, MAGDALENA
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m316.2 496v6"/>
+							<text id="CUYATE MIMBELA, BRAYAN" style="transform: matrix(0,-1,1,0,321.026,574.411)" >
+								<tspan x="-66.4" y="0" class="t9">CUYATE MIMBELA, BRAYAN
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m373.8 496v6"/>
+							<text id="CVITANIC VERGARA, TOMISLAV" style="transform: matrix(0,-1,1,0,378.028,586.361)" >
+								<tspan x="-77.4" y="0" class="t9">CVITANIC VERGARA, TOMISLAV
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m431.3 496v6"/>
+							<text id="FLORES HIDALGO, VALENTINA" style="transform: matrix(0,-1,1,0,435.027,582.896)" >
+								<tspan x="-74.9" y="0" class="t9">FLORES HIDALGO, VALENTINA
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m488.8 496v6"/>
+							<text id="LAGOS NOVA, CONSTANZA" style="transform: matrix(0,-1,1,0,494.026,574.88)" >
+								<tspan x="-67.1" y="0" class="t9">LAGOS NOVA, CONSTANZA
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m546.3 496v6"/>
+							<text id="NAVARRETE SANTIBÁÑEZ, SOFÍA" style="transform: matrix(0,-1,1,0,551.028,591.442)" >
+								<tspan x="-81.5" y="0" class="t9">NAVARRETE SANTIBÁÑEZ, SOFÍA
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m603.9 496v6"/>
+							<text id="OLIVARES CANALES, DANIELA" style="transform: matrix(0,-1,1,0,608.028,584.333)" >
+								<tspan x="-74.4" y="0" class="t9">OLIVARES CANALES, DANIELA
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m661.4 496v6"/>
+							<text id="OLIVOS LEIVA, MÓNICA" style="transform: matrix(0,-1,1,0,666.026,568.688)" >
+								<tspan x="-57.7" y="0" class="t9">OLIVOS LEIVA, MÓNICA
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m718.9 496v6"/>
+							<text id="WURTH GONZÁLEZ, FRANCISCA" style="transform: matrix(0,-1,1,0,723.028,590.38)" >
+								<tspan x="-79.4" y="0" class="t9">WURTH GONZÁLEZ, FRANCISCA
+</tspan>
+							</text>
+						</g>
+					</g>
+					<g id="yAxis">
+						<path class="s8" d="m50 496v-476"/>
+						<g>
+							<path class="s8" d="m50 496h-6"/>
+							<text id="0.0" style="transform: matrix(1,0,0,1,41.017,499.242)" >
+								<tspan x="-15.9" y="0" class="t9">0.0
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 456.4h-6"/>
+							<text id="0.5" style="transform: matrix(1,0,0,1,41.012,459.575)" >
+								<tspan x="-15.9" y="0" class="t9">0.5
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 416.7h-6"/>
+							<text id="1.0" style="transform: matrix(1,0,0,1,41.008,419.908)" >
+								<tspan x="-15.9" y="0" class="t9">1.0
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 377h-6"/>
+							<text id="1.5" style="transform: matrix(1,0,0,1,41.003,380.242)" >
+								<tspan x="-15.9" y="0" class="t9">1.5
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 337.4h-6"/>
+							<text id="2.0" style="transform: matrix(1,0,0,1,40.998,340.575)" >
+								<tspan x="-15.9" y="0" class="t9">2.0
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 297.7h-6"/>
+							<text id="2.5" style="transform: matrix(1,0,0,1,40.993,300.908)" >
+								<tspan x="-15.9" y="0" class="t9">2.5
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 258h-6"/>
+							<text id="3.0" style="transform: matrix(1,0,0,1,40.988,261.242)" >
+								<tspan x="-15.9" y="0" class="t9">3.0
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 218.4h-6"/>
+							<text id="3.5" style="transform: matrix(1,0,0,1,40.983,221.575)" >
+								<tspan x="-15.9" y="0" class="t9">3.5
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 178.7h-6"/>
+							<text id="4.0" style="transform: matrix(1,0,0,1,40.979,181.908)" >
+								<tspan x="-15.9" y="0" class="t9">4.0
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 139h-6"/>
+							<text id="4.5" style="transform: matrix(1,0,0,1,40.974,142.242)" >
+								<tspan x="-15.9" y="0" class="t9">4.5
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 99.4h-6"/>
+							<text id="5.0" style="transform: matrix(1,0,0,1,40.969,102.575)" >
+								<tspan x="-15.9" y="0" class="t9">5.0
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 59.7h-6"/>
+							<text id="5.5" style="transform: matrix(1,0,0,1,40.964,62.908)" >
+								<tspan x="-15.9" y="0" class="t9">5.5
+</tspan>
+							</text>
+						</g>
+						<g>
+							<path class="s8" d="m50 20h-6"/>
+							<text id="6.0" style="transform: matrix(1,0,0,1,40.959,23.242)" >
+								<tspan x="-15.9" y="0" class="t9">6.0
+</tspan>
+							</text>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="grid">
+			</g>
+		</g>
+	</g>
+</svg>
